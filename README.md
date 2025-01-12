@@ -1,1 +1,15 @@
 # AI_CHATBOT
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : GORU SIVARAMAKRISHNA
+
+**INTERN ID** : CT6WDS2692
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (8)](https://github.com/user-attachments/assets/b3be61af-a60c-4daa-9c17-183310bd0c57)
